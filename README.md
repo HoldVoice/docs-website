@@ -1,2 +1,2 @@
-# Club-Guidelines
-GitHub repository on the HoldVoice Club Rules and Regulations website
+# Docs
+GitHub repository on the HoldVoice Rules and Regulations website
