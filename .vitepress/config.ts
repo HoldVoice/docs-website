@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "HVClub Guidelines",
-  description: "HoldVoice Club rules and regulations website",
+  title: "HoldVoice Docs",
+  description: "HoldVoice Official Docs",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

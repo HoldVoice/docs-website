@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "HVClub Guidelines"
-  text: "HoldVoice Club rules and regulations website"
+  name: "HoldVoice Docs"
+  text: "HoldVoice Official Docs"
   tagline: My great project tagline
   actions:
     - theme: brand
