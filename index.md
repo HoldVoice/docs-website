@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "HoldVoice Docs"
-  text: "HoldVoice Official Docs"
-  tagline: My great project tagline
+  name: "音留文档"
+  text: "音留网络官方文档"
+  tagline: HoldVoice Official Docs
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 音留社区相关内容
+      link: /club/terms
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Cookie 的使用
+      link: /policies/cookie
 
 features:
   - title: Feature A
